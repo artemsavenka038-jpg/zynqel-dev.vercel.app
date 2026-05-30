@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "api/yahoo.js": {
+      "maxDuration": 10
+    },
+    "api/fred.js": {
+      "maxDuration": 10
+    },
+    "api/coingecko.js": {
+      "maxDuration": 10
+    },
+    "api/news.js": {
+      "maxDuration": 10
+    }
+  }
+}
